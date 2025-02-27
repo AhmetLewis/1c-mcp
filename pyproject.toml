@@ -5,3 +5,4 @@ description = "Curated list of MCP servers for 1C:Enterprise ecosystem | Кат�
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# handle the edge case from the last release
