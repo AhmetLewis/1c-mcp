@@ -5,3 +5,4 @@ Notes and usage details for 1c-mcp.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
