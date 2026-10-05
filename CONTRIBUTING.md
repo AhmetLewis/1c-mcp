@@ -35,3 +35,4 @@ Notes and usage details for 1c-mcp.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
